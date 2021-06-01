@@ -2,7 +2,7 @@
 
 📜 Snake game created with Java Swing.
 
-<p align="center">
+<p>
 <img src="https://media.giphy.com/media/PUB90s6n3acU4LhPcv/giphy.gif" alt="Snake Game Demo" border="0">
 </p>
 
